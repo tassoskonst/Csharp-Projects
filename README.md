@@ -1,4 +1,3 @@
 # Csharp-Projects
-1)MusicPlayer
+1)MathQuiz
 2)MemoryCardgame
-3)MathQuiz
